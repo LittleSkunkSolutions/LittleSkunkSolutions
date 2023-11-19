@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Williamson</h1>
-<h3 align="center">A freelance embedded hardware and firmware consultant from the UK.</h3>
+<h3 align="center">A freelance embedded hardware and firmware development consultant.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=little-skunk-solutions&label=Profile%20views&color=0e75b6&style=flat" alt="little-skunk-solutions" /> </p>
 
